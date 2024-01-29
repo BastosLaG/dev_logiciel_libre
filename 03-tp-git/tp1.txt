@@ -1,0 +1,10 @@
+Exercice 1. Initialisation d’un dépôt Git.
+    
+    1. Avant de commencer à utiliser un répertoire comme dépôt, il doit être initialisé. Pour cela il suffit de taper la commande git init dans le répertoire.
+        → Initialisez un dépôt git dans un répertoire vide.
+
+    2. 
+        → Quels sont les résultats de la commande? Que peut-on voir dans le répertoire?
+    
+    3. On peut utiliser la commande git status pour voir l’état d’un dépôt Git.
+        → Dans quel état est votre dépôt?
